@@ -1,0 +1,1857 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>PORTFOLIO</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/lunate-icon-2.png" rel="icon">
+  <link href="assets/img/lunate-icon-1.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600;1,700&family=Roboto:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Work+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: UpConstruction - v1.2.1
+  * Template URL: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="header d-flex align-items-center">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+
+      <a href="index.html" class="logo d-flex align-items-center">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <!-- <img src="assets/img/logo.png" alt=""> -->
+        <img src="assets/img/lunate-icon-1.png">
+      </a>
+
+      <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
+      <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a href="index.html">HOME</a></li>
+          <li><a href="projects.html" class="active">PORTFOLIO</a></li>
+          <li><a href="blog.html">MORE INFORMATION</a></li>
+          <li><a href="contact.html">CONTACT</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/index9.jpg');">
+      <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
+
+        <h2>Portfolio</h2>
+
+      </div>
+    </div><!-- End Breadcrumbs -->
+
+    <!-- ======= Our Projects Section ======= -->
+    <section id="projects" class="projects">
+      <div class="container" data-aos="fade-up">
+
+        <div class="portfolio-isotope" data-portfolio-filter="*" data-portfolio-layout="masonry" data-portfolio-sort="original-order">
+
+          <ul class="portfolio-flters" data-aos="fade-up" data-aos-delay="100">
+            <li data-filter="*" class="filter-active">All</li>
+            <li data-filter=".filter-ex">Design Exterior</li>
+            <li data-filter=".filter-in">Design Interior</li>
+            <li data-filter=".filter-pry">On Site</li>
+          </ul><!-- End Projects Filters -->
+
+			  
+          <!--DHIMAS HOUSE-->
+          <div class="row gy-4 portfolio-container" data-aos="fade-up" data-aos-delay="200">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ex filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Dhimas_House 1/index.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>DHIMAS HOUSE</h4>
+                  <a href="assets/img/projects/Dhimas_House 1/index.jpg" title="DHIMAS HOUSE Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Dhimas_House 1/index1.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Dhimas_House 1/index2.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Dhimas_House 1/index3.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Dhimas_House 1/index4.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Dhimas_House 1/Studio.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Dhimas_House 1/index5.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Dhimas_House 1/index6.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Dhimas_House 1/index7.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Dhimas_House 1/index8.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Dhimas_House 1/index9.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  
+			  
+          <!--LH HOUSE-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ex filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/LH_House 2/index.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>LH HOUSE</h4>
+                  <a href="assets/img/projects/LH_House 2/index.jpg" title="LH HOUSE Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/LH_House 2/index1.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/LH_House 2/index2.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/LH_House 2/index3.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/LH_House 2/index4.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/LH_House 2/index5.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/LH_House 2/index7.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/LH_House 2/index8.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  
+			  
+          <!--MEL HOUSE-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ex filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Mel_House 3/index.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>MEL HOUSE</h4>
+                  <a href="assets/img/projects/Mel_House 3/index.jpg" title="MEL HOUSE Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Mel_House 3/index2.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Mel_House 3/index3.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Mel_House 3/index4.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Mel_House 3/index5.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Mel_House 3/index6.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Mel_House 3/index7.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Mel_House 3/index8.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Mel_House 3/index9.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Mel_House 3/index10.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Mel_House 3/index11.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Mel_House 3/index12.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Mel_House 3/index13.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Mel_House 3/index14.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->			  			  
+			  
+          <!--VILLA CANGGU BALI-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ex filter-ex">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/canggu_bali 4/index1.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>VILLA CANGGU BALI</h4>
+                  <a href="assets/img/projects/canggu_bali 4/index1.jpg" title="VILLA CANGGU Bali, 2022 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/canggu_bali 4/index2.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/canggu_bali 4/index3.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/canggu_bali 4/index4.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/canggu_bali 4/index5.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/canggu_bali 4/index6.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->		
+			  
+          <!--ASWATHA VILLA I -->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ex filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Ashwatha_bali 6/index1.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>ASWATHA VILLA I</h4>
+                  <a href="assets/img/projects/Ashwatha_bali 6/index1.jpeg" title="CISANGGIRI HOUSE Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Ashwatha_bali 6/index.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Ashwatha_bali 6/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Ashwatha_bali 6/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Ashwatha_bali 6/index4.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Ashwatha_bali 6/index5.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Ashwatha_bali 6/index6.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  
+          <!--VILLA UBUD BALI-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ex">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/villa ubud 5 9/index.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>VILLA UBUD BALI</h4>
+                  <a href="assets/img/projects/villa ubud 5 9/index.jpeg" title="MEL HOUSE Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/villa ubud 5 9/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/villa ubud 5 9/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/villa ubud 5 9/index4.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/villa ubud 5 9/index5.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/villa ubud 5 9/index6.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+
+			  
+          <!--CISANGGIRI HOUSE-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ex filter-in filter-pry">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/CIsanggiri house/index.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>CISANGGIRI HOUSE</h4>
+                  <a href="assets/img/projects/CIsanggiri house/index.jpeg" title="CISANGGIRI HOUSE Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/CIsanggiri house/index.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/CIsanggiri house/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/CIsanggiri house/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/CIsanggiri house/index4.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/CIsanggiri house/index5.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/CIsanggiri house/index6.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/CIsanggiri house/index7.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/CIsanggiri house/index8.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/CIsanggiri house/index9.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/CIsanggiri house/index10.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/CIsanggiri house/index11.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/CIsanggiri house/index12.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/CIsanggiri house/index13.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/CIsanggiri house/index14.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/CIsanggiri house/index15.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  		  			  		  			  		  			  
+          <!--VILLA ISANA BALI-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ex filter-in filter-pry">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/isana_bali 8/index.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>VILLA ISANA BALI</h4>
+                  <a href="assets/img/projects/isana_bali 8/index.jpg" title="vILLA ISANA Bali, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/isana_bali 8/index2.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/isana_bali 8/index3.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/isana_bali 8/index4.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/isana_bali 8/index4.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/isana_bali 8/index5.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/isana_bali 8/index6.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  			  		  			  
+          <!--VILLA ASWATHA II BALI-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ex filter-in filter-pry">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Ashwatha_bali 6/index7.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>VILLA ASWATHA II BALI</h4>
+                  <a href="assets/img/projects/Ashwatha_bali 6/index7.jpeg" title="Villa Aswatha II Bali, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Ashwatha_bali 6/index8.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Ashwatha_bali 6/index9.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Ashwatha_bali 6/index10.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Ashwatha_bali 6/index11.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  			  			  		  			  
+          <!--DOM RESORT-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ex">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Dom resort 10/index.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>DOM RESORT</h4>
+                  <a href="assets/img/projects/Dom resort 10/index2.jpeg" title="DOM Resort, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Dom resort 10/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Dom resort 10/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Dom resort 10/index4.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Dom resort 10/index5.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  			  			  			  		  			  
+          <!--PULISAN RESORT-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ex filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/pulisan 11/index.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>PULISAN RESORT</h4>
+                  <a href="assets/img/projects/pulisan 11/index1.jpeg" title="Pulisan Resort, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/pulisan 11/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/pulisan 11/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/pulisan 11/index4.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/pulisan 11/index5.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/pulisan 11/index6.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/pulisan 11/index7.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/pulisan 11/index8.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/pulisan 11/index9.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/pulisan 11/index10.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/pulisan 11/index11.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/pulisan 11/index12.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/pulisan 11/index13.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  			  			  			  			  		  			  
+          <!--PULAU SEMUT KECIL RESORT-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ex filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Resort pulau semut 12/index.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>PULAU SEMUT KECIL RESORT</h4>
+                  <a href="assets/img/projects/Resort pulau semut 12/index.jpeg" title="PULAU SEMUT KECIL Resort, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Resort pulau semut 12/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Resort pulau semut 12/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Resort pulau semut 12/index4.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Resort pulau semut 12/index5.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Resort pulau semut 12/index6.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Resort pulau semut 12/index7.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Resort pulau semut 12/index8.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Resort pulau semut 12/index9.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Resort pulau semut 12/index10.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Resort pulau semut 12/index11.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Resort pulau semut 12/index12.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  			  			  			  			  			  		  			  
+          <!--BAIK BAIK CONDOTEL BALI-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ex filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Baik baik condotel 13/index.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>BAIK BAIK CONDOTEL BALI</h4>
+                  <a href="assets/img/projects/Baik baik condotel 13/index.jpeg" title="BAIK BAIK CONDOTEL BALI, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Baik baik condotel 13/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Baik baik condotel 13/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  		  			  			  			  			  			  			  		  			  
+          <!--ROB CLARIS HOTEL-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ex">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Rob claris hotel 14/index.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>ROB CLARIS HOTEL</h4>
+                  <a href="assets/img/projects/Rob claris hotel 14/index.jpeg" title="ROB CLARIS HOTEL SORONG, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Rob claris hotel 14/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  		  			  			  			  			  			  			  		  			  
+          <!--HOTEL CASUAR-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ex">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Hotel_casuari 15/index.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>HOTEL CASUAR</h4>
+                  <a href="assets/img/projects/Hotel_casuari 15/index.jpeg" title="ROB CLARIS HOTEL SORONG, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Hotel_casuari 15/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Hotel_casuari 15/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Hotel_casuari 15/index4.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Hotel_casuari 15/index5.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Hotel_casuari 15/index6.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  		  			  			  			  			  			  			  		  			  
+          <!--CHELSEA ISLAN BEDROOM-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Chelsea_Bedroom 16/index.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>CHELSEA ISLAN BEDROOM</h4>
+                  <a href="assets/img/projects/Chelsea_Bedroom 16/index.png" title="CHELSEA ISLAN BEDROOM Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Chelsea_Bedroom 16/index1.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Chelsea_Bedroom 16/index2.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Chelsea_Bedroom 16/index3.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  			  		  			  			  			  			  			  			  		  			  
+          <!--MRS.J APARTEMENT-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Apartement_Mrs.J 17/index1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>MRS.J APARTEMENT</h4>
+                  <a href="assets/img/projects/Apartement_Mrs.J 17/index1.png" title="MRS.J APARTEMENT Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Apartement_Mrs.J 17/index.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Apartement_Mrs.J 17/index2.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Apartement_Mrs.J 17/index3.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  			  			  		  			  			  			  			  			  			  		  			  
+          <!--KEMANG VILLAGE APARTEMENT-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Apart kemvil 18/index.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>KEMANG VILLAGE APARTEMENT</h4>
+                  <a href="assets/img/projects/Apart kemvil 18/index.jpeg" title="MRS.J APARTEMENT Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Apart kemvil 18/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Apart kemvil 18/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Apart kemvil 18/index4.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Apart kemvil 18/index5.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Apart kemvil 18/index6.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Apart kemvil 18/index7.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Apart kemvil 18/index8.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  	  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Apart kemvil 18/index9.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  			  			  		  			  			  			  			  			  			  		  			  
+          <!--ONE PIECE HAIR SALON-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/one_piece 19/index.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>ONE PIECE HAIR SALON</h4>
+                  <a href="assets/img/projects/one_piece 19/index.jpeg" title="ONE PIECE HAIR SALON Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/one_piece 19/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/one_piece 19/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  	  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/one_piece 19/index4.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/one_piece 19/index5.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/one_piece 19/index6.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/one_piece 19/index7.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/one_piece 19/index8.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  		  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/one_piece 19/index9.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  			  			  			  		  			  			  			  			  			  			  		  			  
+          <!--F45 GYM-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/F45 gym 20/index.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>F45 GYM</h4>
+                  <a href="assets/img/projects/F45 gym 20/index.jpeg" title="F45 GYM Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/F45 gym 20/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/F45 gym 20/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+ 
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/F45 gym 20/index4.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/F45 gym 20/index5.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/F45 gym 20/index6.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/F45 gym 20/index7.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/F45 gym 20/index8.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/F45 gym 20/index8.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/F45 gym 20/index9.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/F45 gym 20/index10.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/F45 gym 20/index11.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/F45 gym 20/index12.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/F45 gym 20/index13.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/F45 gym 20/index14.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/F45 gym 20/index15.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/F45 gym 20/index16.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/F45 gym 20/index17.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/F45 gym 20/index18.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  			  			  		  			  			  			  			  			  			  		  			  
+          <!--CAVARLIERI STORE-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Cavialeri 21/index.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>CAVARLIERI STORE</h4>
+                  <a href="assets/img/projects/Cavialeri 21/index.jpeg" title="CAVARLIERI STORE Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Cavialeri 21/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Cavialeri 21/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  			  			  			  		  			  			  			  			  			  			  		  			  
+          <!--IDS MEDICAL CENTRE-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/IDS_MED 22/index6.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>IDS MEDICAL CENTRE</h4>
+                  <a href="assets/img/projects/IDS_MED 22/index6.jpeg" title="CAVARLIERI STORE Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/IDS_MED 22/index7.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/IDS_MED 22/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/IDS_MED 22/index10.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/IDS_MED 22/index11.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/IDS_MED 22/index.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/IDS_MED 22/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/IDS_MED 22/index8.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/IDS_MED 22/index9.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/IDS_MED 22/index4.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+			  
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/IDS_MED 22/index5.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  		  					  			  			  			  		  			  			  			  			  			  			  		  			  
+          <!--FONDACO OFFICE-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Fondaco 23/index.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>FONDACO OFFICE</h4>
+                  <a href="assets/img/projects/Fondaco 23/index.jpeg" title="FONDACO OFFICE Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Fondaco 23/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Fondaco 23/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Fondaco 23/index4.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  			  		  					  			  			  			  		  			  			  			  			  			  			  		  			  
+          <!--MUSI OFFICE-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Musi 24/index.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>MUSI OFFICE</h4>
+                  <a href="assets/img/projects/Musi 24/index.jpg" title="MUSI OFFICE Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Musi 24/index2.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Musi 24/index3.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Musi 24/index4.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  
+		  <!--MEDIFIT CLINIC-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Klinik_Medifit_lebakbulus 25/index.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>MEDIFIT CLINIC</h4>
+                  <a href="assets/img/projects/Klinik_Medifit_lebakbulus 25/index.png" title="MEDIFIT CLINIC Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Klinik_Medifit_lebakbulus 25/index1.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Klinik_Medifit_lebakbulus 25/index2.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Klinik_Medifit_lebakbulus 25/index3.png" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  
+		  <!--S CLINIC-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Sclinic 26/Sclinic.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>S CLINIC</h4>
+                  <a href="assets/img/projects/Sclinic 26/Sclinic.jpeg" title="S CLINIC Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Sclinic 26/Sclinic2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Sclinic 26/Sclinic3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Sclinic 26/Sclinic4.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  			  
+		  <!--MEDIFIT SPA-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Medifit_Spa cideng 27/index.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>MEDIFIT SPA</h4>
+                  <a href="assets/img/projects/Medifit_Spa cideng 27/index.jpg" title="MEDIFIT SPA Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Medifit_Spa cideng 27/index2.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Medifit_Spa cideng 27/index3.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Medifit_Spa cideng 27/index4.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Medifit_Spa cideng 27/index5.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Medifit_Spa cideng 27/index6.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Medifit_Spa cideng 27/index7.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  			  
+		  <!--KOKO RESTO-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Koko_Resto 28/index.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>KOKO RESTO</h4>
+                  <a href="assets/img/projects/Koko_Resto 28/index.jpeg" title="KOKO RESTO Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Koko_Resto 28/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Koko_Resto 28/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  	  			  			  
+		  <!--HEALTHY CAFE-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Healthy_cafe 29/index.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>HEALTHY CAFE</h4>
+                  <a href="assets/img/projects/Healthy_cafe 29/index.jpg" title="MEDIFIT KITCHEN Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Healthy_cafe 29/index 2.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Healthy_cafe 29/index3.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Healthy_cafe 29/index4.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Healthy_cafe 29/index5.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Healthy_cafe 29/index6.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+		      <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Healthy_cafe 29/index7.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Healthy_cafe 29/index8.jpg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  			  			  
+		  <!--SAVANA RESTO-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-in filter-pry">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Savana 30/index4.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>SAVANA RESTO</h4>
+                  <a href="assets/img/projects/Savana 30/index4.jpeg" title="SAVANA RESTO Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Savana 30/index5.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Savana 30/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Savana 30/index.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Savana 30/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  			  			  			  
+		  <!--IDS MED-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-in">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/IDS new/index2.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>IDS MED</h4>
+                  <a href="assets/img/projects/IDS new/index2.jpeg" title="IDS MED Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/IDS new/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/IDS new/index4.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/IDS new/index5.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/IDS new/index6.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/IDS new/index7.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/IDS new/index8.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/IDS new/index9.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  			  			  			  			  
+		  <!--AIMAS HOTEL-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-pry">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Aimas -/index.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>AIMAS HOTEL</h4>
+                  <a href="assets/img/projects/Aimas -/index.jpeg" title="AIMAS HOTEL PAPUA, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Aimas -/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Aimas -/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Aimas -/index4.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Aimas -/index5.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Aimas -/index6.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			 
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Aimas -/index7.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+  			  			  			  			  
+		  <!--GREEN HOUSE-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ex">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Green house -/index.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>GREEN HOUSE</h4>
+                  <a href="assets/img/projects/Green house -/index.jpeg" title="GREEN HOUSE Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Green house -/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Green house -/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Green house -/index4.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Green house -/index5.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Green house -/index6.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Green house -/index7.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  			  
+			  			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Green house -/index8.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			 			  			  			  			  			  			  			  
+		  <!--ALSUT HOUSE-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ex">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Rumah_alsut -/index.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>ALSUT HOUSE</h4>
+                  <a href="assets/img/projects/Green house -/index.jpeg" title="GREEN HOUSE Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Green house -/index1.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Green house -/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Green house -/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  
+		  <!--KOST CENDRAWASIH-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ex">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Kost cendrawasih -/index.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>KOST CENDRAWASIH</h4>
+                  <a href="assets/img/projects/Kost cendrawasih -/index.jpeg" title="KOST CENDRAWASIH Papua, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Kost cendrawasih -/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  </div><!-- End Projects Item -->
+			  			  
+		  <!--KAYU PUTIH HOUSE-->
+            <div class="col-lg-4 col-md-6 portfolio-item filter-ex">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/projects/Kayu_putih_house -/index.jpeg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>KAYU PUTIH HOUSE</h4>
+                  <a href="assets/img/projects/Kost cendrawasih -/index.jpeg" title="KAYU PUTIH HOUSE Jakarta, 2023 &copy; PT Lunate Elemen Artistika" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
+              </div>
+
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Kost cendrawasih -/index2.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Kost cendrawasih -/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			  
+              <div class="portfolio-content h-100">
+                <div class="portfolio-info">
+                  <a href="assets/img/projects/Kost cendrawasih -/index3.jpeg" data-gallery="portfolio-gallery-ksj" class="glightbox preview-link"></a>
+                </div>
+              </div>
+			 </div><!-- End Projects Item -->
+
+
+    </section><!-- End Our Projects Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer" class="footer">
+
+    <div class="footer-content position-relative">
+      <div class="container">
+        <div class="row">
+            <div class="footer-info">
+              <h3>PT. Lunate Elemen Artistika</h3>
+              <p>
+                Jl. Raya Krukut No. 33A <br>
+                Depok, Jawa Barat, 16514
+              </p>
+              <div class="social-links d-flex mt-3">
+                <a href="mailto:lunateelementart@gmail.com" class="d-flex align-items-center justify-content-center"><i class="bi bi-envelope"></i></a>
+                <a href="https://wa.me/6285216910433" class="d-flex align-items-center justify-content-center"><i class="bi bi-whatsapp"></i></a>
+                <a href="https://www.instagram.com/lunateelement" class="d-flex align-items-center justify-content-center"><i class="bi bi-instagram"></i></a>
+                <a href="https://www.facebook.com/profile.php?id=100067537028468" class="d-flex align-items-center justify-content-center"><i class="bi bi-facebook"></i></a
+              </div>
+            </div>  
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-legal text-center position-relative">
+      <div class="container">
+        <div class="copyright">
+          &copy; Copyright 2022 by <strong><span>PT Lunate Elemen Artistika</span></strong>. All Rights Reserved
+        </div>
+        <div class="credits">
+          <!-- All the links in the footer should remain intact. -->
+          <!-- You can delete the links only if you purchased the pro version. -->
+          <!-- Licensing information: https://bootstrapmade.com/license/ -->
+          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/ -->
+ 
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- End Footer -->
+
+  <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
