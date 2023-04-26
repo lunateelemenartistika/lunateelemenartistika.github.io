@@ -1087,9 +1087,10 @@ section {
   padding-bottom: 100px;
 }
 .alt-services .img-bg {
-  background-size: cover;
-  background-position: center center;
-  min-height: 400px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 600px;
 }
 
 .alt-services h3 {
